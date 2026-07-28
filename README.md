@@ -12,7 +12,7 @@
 
 - 🎓 Computer Science and Statistics student at the University of Toronto, St George Campus
 - 🤖 Focus in Artificial Intelligence & Machine Learning
-- 💻 Passionate about Software Engineering
+- 💻 Interested in Software Engineering, with a focus on building impactful solutions in healthcare and commercial domains.
 - 🚀 Currently building **ConceptBridge**, a full-stack knowledge graph platform for interactive learning, and **MovieMatch**, a Java Swing movie-matching application with user accounts, reviews, and personalized recommendations.
 
 ---
