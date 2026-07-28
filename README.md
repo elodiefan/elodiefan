@@ -1,12 +1,12 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3500&pause=1200&color=4A90E2&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Elodie+%F0%9F%91%8B;CS+%40+University+of+Toronto" />
-</h1>
+# Hi, I'm Elodie 👋
 
-<p align="center">
-  <b>Building software at the intersection of AI, backend engineering, and intuitive user experiences.</b>
+**CS @ University of Toronto, St. George Campus**
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1200&color=4A90E2&vCenter=true&width=550&lines=Building+software+at+the+intersection+of+AI...;Backend+Engineering...;Intuitive+User+Experiences." />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=elodiefan&label=Profile+Views&color=4A90E2&style=flat" />
 </p>
 
@@ -17,7 +17,7 @@
 - 🎓 Computer Science student at the University of Toronto
 - 🤖 Focus in Artificial Intelligence & Machine Learning
 - 💻 Passionate about Software Engineering
-- 🚀 Currently building **ConceptBridge**, a full-stack knowledge graph platform for interactive learning, and **Movie Match**, a Java Swing movie-matching application with user accounts, reviews, and personalized recommendations.
+- 🚀 Currently building **ConceptBridge**, a full-stack knowledge graph platform for interactive learning, and **MovieMatch**, a Java Swing movie-matching application with user accounts, reviews, and personalized recommendations.
 
 ---
 
