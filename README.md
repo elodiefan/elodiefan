@@ -1,6 +1,6 @@
 <p>Hi, I'm Elodie 👋</p>
 
-<p>CS @ University of Toronto, St. George Campus</p>
+<p>CS @ University of Toronto </p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=elodiefan&label=Profile+Views&color=4A90E2&style=flat" />
@@ -10,7 +10,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Computer Science and Statistics student at the University of Toronto
+- 🎓 Computer Science and Statistics student at the University of Toronto, St George Campus
 - 🤖 Focus in Artificial Intelligence & Machine Learning
 - 💻 Passionate about Software Engineering
 - 🚀 Currently building **ConceptBridge**, a full-stack knowledge graph platform for interactive learning, and **MovieMatch**, a Java Swing movie-matching application with user accounts, reviews, and personalized recommendations.
