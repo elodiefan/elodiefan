@@ -1,10 +1,6 @@
-# Hi, I'm Elodie 👋
+<p>Hi, I'm Elodie 👋</p>
 
-**CS @ University of Toronto, St. George Campus**
-
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1200&color=4A90E2&vCenter=true&width=550&lines=Building+software+at+the+intersection+of+AI...;Backend+Engineering...;Intuitive+User+Experiences." />
-</p>
+<p>CS @ University of Toronto, St. George Campus</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=elodiefan&label=Profile+Views&color=4A90E2&style=flat" />
@@ -14,7 +10,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Computer Science student at the University of Toronto
+- 🎓 Computer Science and Statistics student at the University of Toronto
 - 🤖 Focus in Artificial Intelligence & Machine Learning
 - 💻 Passionate about Software Engineering
 - 🚀 Currently building **ConceptBridge**, a full-stack knowledge graph platform for interactive learning, and **MovieMatch**, a Java Swing movie-matching application with user accounts, reviews, and personalized recommendations.
@@ -48,16 +44,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🌉 ConceptBridge
-A full-stack knowledge graph platform that transforms uploaded documents into interactive concept maps to enhance learning and knowledge exploration.
-
-### 🎬 Movie Match
-A Java Swing movie-matching application with user accounts, reviews, personalized recommendations, MongoDB integration, and an external movie API.
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -77,5 +63,3 @@ A Java Swing movie-matching application with user accounts, reviews, personalize
 ## 📫 Contact
 
 📧 **Email:** elodie.fan25@gmail.com
-
-💼 **LinkedIn:** https://www.linkedin.com/in/YOUR-LINKEDIN/
