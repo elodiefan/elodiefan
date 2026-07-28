@@ -19,8 +19,6 @@
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 ![Python](https://img.shields.io/badge/Python-333333?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/Java-333333?style=flat-square&logo=openjdk)
 ![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat-square&logo=typescript)
