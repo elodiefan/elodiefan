@@ -2,10 +2,6 @@
 
 <p>CS @ University of Toronto </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=elodiefan&label=Profile+Views&color=4A90E2&style=flat" />
-</p>
-
 ---
 
 ## 👩‍💻 About Me
